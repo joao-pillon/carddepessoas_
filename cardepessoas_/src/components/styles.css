@@ -1,0 +1,19 @@
+.userCard {
+  color: greenyellow;
+  width: 120px;
+  height: 80px;
+  font-size: 10px;
+  margin: 20px;
+  border: yellowgreen solid 2px;
+  border-radius: 12px;
+  line-height: 10px;
+
+  text-align: center;
+  justify-content: center;
+}
+
+.userCard:hover {
+  color: rgb(53, 53, 53);
+  cursor: pointer;
+  background-color: yellowgreen;
+}
